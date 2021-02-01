@@ -1,5 +1,3 @@
-[! [version] [opencart-badge]] [CHANGELOG] [! [license] [license-badge]] [LICENSE]
-
 ### Presentation
 
 This Brazilian Portuguese translation of OpenCart is maintained and revised by OpenCart Brasil.

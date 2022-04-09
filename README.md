@@ -14,7 +14,7 @@ http://www.opencartbrasil.com.br/instalando-traducao-opencart
 
 Before submitting an Issue, search our forum [by clicking here] (https://forum.opencartbrasil.com.br/).
 
-[opencart-badge]: https://img.shields.io/badge/opencart-3.0.2.0-blue.svg
+[opencart-badge]: https://img.shields.io/badge/opencart-3.0-blue.svg
 [CHANGELOG]: ./CHANGELOG.md
 [license-badge]: https://img.shields.io/badge/licença-GPLv3-blue.svg
 [LICENSE]: ./LICENSE
